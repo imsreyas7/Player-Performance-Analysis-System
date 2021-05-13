@@ -6,9 +6,9 @@ Provision for an interactive chatroom as well as individual chats for easy and e
 
 ## Team Members
 
-[Sreyas](https://github.com/imsreyas7)
-[Sricharan](https://github.com/Sricharan2402)
-[Sathish Prasad](https://github.com/sathishprasad)
+- [Sreyas](https://github.com/imsreyas7)
+- [Sricharan](https://github.com/Sricharan2402)
+- [Sathish Prasad](https://github.com/sathishprasad)
 
 -----------------------------------------------------
 
