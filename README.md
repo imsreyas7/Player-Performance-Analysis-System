@@ -1,7 +1,9 @@
 # Player Performance Analysis System
 
 An interactive system developed mainly using ReactJS and Firebase to help teams and players adopt better training techniques and analysis of improvement areas from both the player and coach perspective. The data and metrics are presented in the simplest way possible using interactive Tableau dashboards for quick understanding for whoever views them. 
+
 The metrics presented are there in three main sections as Player stats , Team Stats (your team) and Opposition Stats.
+
 Provision for an interactive chatroom as well as individual chats for easy and effective communication within team members and staff.
 
 ## Team Members
